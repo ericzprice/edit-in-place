@@ -1,0 +1,8 @@
+.hidden {
+    display: none;
+}
+
+#myNameInput {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
